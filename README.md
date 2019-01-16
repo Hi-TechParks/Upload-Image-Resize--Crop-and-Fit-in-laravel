@@ -1,4 +1,13 @@
 # Upload-Image-Resize--Crop-and-Fit-in-laravel
+
+
+-- use Image; --
+
+NB: use File; class must be added in top of the controller
+
+
+
+
 Resize uploaded image and crop it as a fit size using Laravel Image Intervention
 
 Use full link for more documentation:
